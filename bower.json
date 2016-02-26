@@ -1,0 +1,19 @@
+{
+  "name": "angular-material",
+  "description": "Sandbox for learning angular material.",
+  "main": "app.js",
+  "authors": [
+    "Tim Bain"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tsbain/angular-material",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
