@@ -1,8 +1,8 @@
 var app = angular.module('myApp');
-app.controller('MainCtrl', function($scope) {
+app.controller('LandingCtrl', function($scope) {
 
   $scope.myDate = new Date();
-  
+
   $scope.buttonName = "Click";
 
   $scope.minDate = new Date(
